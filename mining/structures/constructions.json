@@ -1,0 +1,73 @@
+[
+  {
+    "type": "construction",
+    "id": "constr_dig_mine_level1",
+    "group": "GROUP_MINING",
+    "category": "DIG",
+    "required_skills": [ [ "survival", 4 ], [ "fabrication", 6 ] ],
+    "time": "1800 m",
+    "components": [
+      [ [ "2x4", 25 ] ],
+      [ [ "wood_beam", 4 ] ],
+      [ [ "nail", 130 ] ]
+    ],
+    "qualities": [
+      { "id": "DIG", "level": 1 },
+      { "id": "HAMMER", "level": 2 },
+      { "id": "AXE", "level": 1 },
+      { "id": "SAW_W", "level": 1 }
+    ],
+    "tools": [ [ ["stone_pickaxe", -1 ], ["pickaxe", -1 ], ["bronze_pickaxe", -1 ], ["jackhammer", 140 ], ["elec_jackhammer", 1848 ] ] ],
+    "byproducts": [ { "group": "digging_soil_loam_50L" }, { "group": "mining_rock" } ],
+    "post_terrain": "f_mine_level1",
+    "activity_level": "BRISK_EXERCISE",
+    "pre_note": "Mine for ore extraction"
+  },
+  {
+    "type": "construction",
+    "id": "constr_ore_smelting_furnace",
+    "group": "GROUP_SMELTING",
+    "category": "CONSTRUCT",
+    "required_skills": [
+      [ "fabrication", 4 ],
+      [ "survival", 2 ]
+    ],
+    "time": "1800 m",
+    "components": [
+      [ [ "rock", 30 ] ],
+      [ [ "fire_brick", 10 ] ],
+      [ [ "clay_lump", 5 ] ]
+    ],
+    "qualities": [
+      { "id": "HAMMER", "level": 2 },
+      { "id": "DIG", "level": 2 }
+    ],
+    "post_terrain": "f_ore_smelting_furnace",
+    "activity_level": "MODERATE_EXERCISE",
+    "pre_note": "Furnace for smelting ore from clay and fire bricks"
+  },
+  {
+    "type": "construction",
+    "id": "constr_soil_sifter",
+    "group": "GROUP_SOIL_SIFTER",
+    "category": "CONSTRUCT",
+    "required_skills": [
+      [ "fabrication", 3 ],
+      [ "survival", 1 ]
+    ],
+    "time": "120 m",
+    "components": [
+      [ [ "sieve_primitive", 4 ] ],
+      [ [ "stick", 20 ] ],
+      [ [ "string_6", 20 ], [ "cordage_6_leather", 20 ], [ "cordage_6", 20 ] ]
+    ],
+    "qualities": [
+      { "id": "HAMMER", "level": 1 },
+      { "id": "CHISEL_WOOD", "level": 1 },
+      { "id": "CUT", "level": 1 }
+    ],
+    "post_terrain": "f_soil_sifter",
+    "activity_level": "LIGHT_EXERCISE",
+    "pre_note": "Soil sifter for extracting useful materials"
+  }
+]

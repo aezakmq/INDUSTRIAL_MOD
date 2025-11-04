@@ -1,0 +1,17 @@
+[
+  {
+    "type": "construction_group",
+    "id": "GROUP_MINING",
+    "name": "Mine"
+  },
+  {
+    "type": "construction_group",
+    "id": "GROUP_SMELTING",
+    "name": "Ore Smelting Furnace"
+  },
+  {
+    "type": "construction_group",
+    "id": "GROUP_SOIL_SIFTER",
+    "name": "Soil Sifter"
+  }
+]

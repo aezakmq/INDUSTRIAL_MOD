@@ -1,0 +1,34 @@
+[
+  {
+    "id": "oil_pump_tool_corded",
+    "type": "TOOL",
+    "name": { "str_sp": "Oil derrick pump" },
+    "description": "Portable electric pump for oil derricks.",
+    "weight": "20000 g",
+    "volume": "10 L",
+    "price": "1000 USD",
+    "material": [ "steel", "plastic" ],
+    "symbol": "{",
+    "color": "light_gray",
+    "ammo": [ "battery" ],
+    "charges_per_use": 500,
+    "use_action": [ { "type": "link_up", "cable_length": 12, "charge_rate": "36000 W" } ],
+    "flags": [ "NONCONDUCTIVE" ],
+    "melee_damage": { "bash": 5 }
+  },
+  {
+    "id": "oil_refinery_heater",
+    "type": "TOOL",
+    "name": { "str_sp": "Oil refinery heating elements" },
+    "description": "Powerful portable electric heating elements for heating the furnace during oil distillation.",
+    "weight": "15 kg",
+    "volume": "10 L",
+    "price": 3500,
+    "price_postapoc": 200,
+    "symbol": "E",
+    "color": "red",
+    "material": [ "steel", "copper" ],
+    "flags": [ "NO_UNLOAD", "ALWAYS_TWOHAND" ],
+    "use_action": [ { "type": "link_up", "cable_length": 4, "charge_rate": "10000 W" } ]
+  }
+]

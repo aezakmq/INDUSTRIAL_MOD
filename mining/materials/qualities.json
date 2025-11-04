@@ -1,0 +1,17 @@
+[
+  {
+    "id": "MINE_LEVEL1",
+    "name": "Mine",
+    "type": "tool_quality"
+  },
+  {
+    "id": "ORE_SMELTING",
+    "name": "Ore Smelting",
+    "type": "tool_quality"
+  },
+  {
+    "id": "SOIL_SIFTING",
+    "name": "Soil Sifting",
+    "type": "tool_quality"
+  }
+]

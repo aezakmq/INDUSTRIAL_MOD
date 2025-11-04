@@ -1,0 +1,58 @@
+[
+  {
+    "type": "furniture",
+    "id": "f_oil_derrick",
+    "name": "Oil Derrick",
+    "description": "Complex makeshift structure for crude oil extraction.",
+    "symbol": "T",
+    "color": "dark_gray",
+    "move_cost_mod": 2,
+    "required_str": -1,
+    "flags": [
+      "NOITEM",
+      "BLOCKSDOOR",
+      "BENCH"
+    ],
+    "crafting_pseudo_item": "fake_oil_derrick",
+    "bash": {
+      "str_min": 16,
+      "str_max": 50,
+      "sound": "metal screeching!",
+      "sound_fail": "clang!",
+      "items": [
+        { "item": "scrap", "count": [ 4, 8 ] }
+      ]
+    }
+  },
+  {
+    "type": "furniture",
+    "id": "f_oil_refinery",
+    "name": "Oil Refinery Furnace",
+    "description": "Small furnace designed for distilling crude oil into gasoline, diesel fuel and other fractions.",
+    "symbol": "#",
+    "color": "dark_gray",
+    "move_cost_mod": 2,
+    "required_str": -1,
+    "flags": [
+      "NOITEM",
+      "BLOCKSDOOR",
+      "NONPORTABLE",
+      "FLAMMABLE"
+    ],
+    "crafting_pseudo_item": "fake_oil_refinery",
+    "deconstruct": {
+      "items": [
+        { "item": "oil_refinery_item", "count": 1 }
+      ]
+    },
+    "bash": {
+      "str_min": 16,
+      "str_max": 60,
+      "sound": "heavy metal screeching!",
+      "sound_fail": "clang!",
+      "items": [
+        { "item": "scrap", "count": [ 6, 12 ] }
+      ]
+    }
+  }
+]

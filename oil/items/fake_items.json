@@ -1,0 +1,26 @@
+[
+  {
+    "type": "TOOL",
+    "id": "fake_oil_derrick",
+    "name": { "str_sp": "Oil Derrick (fake object)" },
+    "description": "Technical fake tool.",
+    "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
+    "weight": "1 g",
+    "volume": "1 ml",
+    "symbol": "T",
+    "color": "dark_gray",
+    "qualities": [ [ "OIL_PUMP", 1 ] ]
+  },
+  {
+    "type": "TOOL",
+    "name": { "str_sp": "Oil Refinery Furnace (fake object)" },
+    "description": "Technical fake tool.",
+    "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
+    "weight": "1 g",
+    "volume": "1 ml",
+    "symbol": "@",
+    "color": "red",
+    "id": "fake_oil_refinery",
+    "qualities": [ [ "DISTILL", 3 ], [ "COOK", 2 ], [ "CONTAIN", 2 ] ]
+  }
+]

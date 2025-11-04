@@ -1,0 +1,92 @@
+[
+  {
+    "type": "furniture",
+    "id": "f_mine_level1",
+    "name": "Mine",
+    "description": "Makeshift mine for ore extraction. Dug manually using simple tools.",
+    "symbol": "O",
+    "color": "brown",
+    "move_cost_mod": 3,
+    "required_str": 8,
+    "flags": [
+      "NOITEM",
+      "BLOCKSDOOR",
+      "NONPORTABLE"
+    ],
+    "crafting_pseudo_item": "fake_mine_level1",
+    "bash": {
+      "str_min": 12,
+      "str_max": 40,
+      "sound": "crashing!",
+      "sound_fail": "thud!",
+      "items": [
+        { "item": "rock", "count": [ 8, 16 ] },
+        { "item": "splinter", "count": [ 2, 4 ] }
+      ]
+    }
+  },
+  {
+    "type": "furniture",
+    "id": "f_ore_smelting_furnace",
+    "name": "Ore Smelting Furnace",
+    "looks_like": "f_clay_oven",
+    "description": "Simple furnace for smelting ore into metal. Made from clay and fire bricks with a chimney for smoke venting.",
+    "symbol": "U",
+    "color": "brown",
+    "move_cost_mod": -1,
+    "coverage": 50,
+    "required_str": -1,
+    "crafting_pseudo_item": "fake_ore_smelting_furnace",
+    "flags": [
+      "CONTAINER",
+      "FIRE_CONTAINER",
+      "SUPPRESS_SMOKE",
+      "PLACE_ITEM",
+      "MINEABLE"
+    ],
+    "examine_action": "fireplace",
+    "bash": {
+      "str_min": 18,
+      "str_max": 50,
+      "sound": "crash!",
+      "sound_fail": "whump.",
+      "items": [
+        { "item": "rock", "count": [ 20, 30 ] },
+        { "item": "fire_brick", "count": [ 4, 8 ] }
+      ]
+    },
+    "deconstruct": {
+      "items": [
+        { "item": "rock", "count": 30 },
+        { "item": "fire_brick", "count": 10 }
+      ]
+    }
+  },
+  {
+    "type": "furniture",
+    "id": "f_soil_sifter",
+    "name": "Soil Sifter",
+    "description": "Simple device for sifting soil and extracting useful materials. Made from woven sieves and wooden frame.",
+    "symbol": "S",
+    "color": "brown",
+    "move_cost_mod": 2,
+    "required_str": 6,
+    "crafting_pseudo_item": "fake_soil_sifter",
+    "flags": [
+      "NOITEM",
+      "BLOCKSDOOR",
+      "NONPORTABLE"
+    ],
+    "bash": {
+      "str_min": 8,
+      "str_max": 30,
+      "sound": "cracking!",
+      "sound_fail": "thud!",
+      "items": [
+        { "item": "sieve_primitive", "count": [ 2, 4 ] },
+        { "item": "stick", "count": [ 10, 15 ] },
+        { "item": "splinter", "count": [ 2, 4 ] }
+      ]
+    }
+  }
+]

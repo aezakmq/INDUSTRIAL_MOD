@@ -1,0 +1,12 @@
+[
+  {
+    "type": "construction_group",
+    "id": "GROUP_OIL_DERICK",
+    "name": "Oil Derrick"
+  },
+  {
+    "type": "construction_group",
+    "id": "GROUP_OIL_REFINERY",
+    "name": "Oil Refinery Furnace"
+  }
+]

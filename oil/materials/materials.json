@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fluid_crude_oil",
+    "type": "material",
+    "name": "Crude oil",
+    "copy-from": "hydrocarbons",
+    "density": 0.9,
+    "fuel_data": { "energy": "20000 kJ" }
+  },
+  {
+    "id": "fuel_oil",
+    "type": "material",
+    "name": "Fuel oil",
+    "copy-from": "hydrocarbons",
+    "density": 1.1,
+    "fuel_data": { "energy": "25000 kJ" }
+  }
+]

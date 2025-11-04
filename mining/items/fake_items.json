@@ -1,0 +1,38 @@
+[
+  {
+    "type": "TOOL",
+    "id": "fake_mine_level1",
+    "name": { "str_sp": "Mine (fake object)" },
+    "description": "Technical fake tool for ore extraction.",
+    "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
+    "weight": "1 g",
+    "volume": "1 ml",
+    "symbol": "O",
+    "color": "brown",
+    "qualities": [ [ "MINE_LEVEL1", 1 ] ]
+  },
+  {
+    "type": "TOOL",
+    "id": "fake_ore_smelting_furnace",
+    "name": { "str_sp": "Ore Smelting Furnace (fake object)" },
+    "description": "Technical fake tool for ore smelting.",
+    "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
+    "weight": "1 g",
+    "volume": "1 ml",
+    "symbol": "U",
+    "color": "brown",
+    "qualities": [ [ "ORE_SMELTING", 1 ] ]
+  },
+  {
+    "type": "TOOL",
+    "id": "fake_soil_sifter",
+    "name": { "str_sp": "Soil Sifter (fake object)" },
+    "description": "Technical fake tool for soil sifting.",
+    "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
+    "weight": "1 g",
+    "volume": "1 ml",
+    "symbol": "S",
+    "color": "brown",
+    "qualities": [ [ "SOIL_SIFTING", 1 ] ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "industrial_flamethrower",
+    "copy-from": "gun_base",
+    "looks_like": "flamethrower",
+    "type": "GUN",
+    "skill": "launcher",
+    "reload_noise": "slosh.",
+    "ammo": [ "flammable" ],
+    "ammo_effects": [ "FLARE" ],
+    "reload": 4,
+    "ammo_to_fire": 100,
+    "name": { "str": "Makeshift flamethrower", "str_pl": "Makeshift flamethrowers" },
+    "description": "Homemade flamethrower assembled from improvised materials. Uses combined fuel from oil and fuel oil to create a powerful stream of fire. Not as reliable as military models, but quite functional in skilled hands.",
+    "weight": "8500 g",
+    "volume": "55000 ml",
+    "longest_side": "500 mm",
+    "price": 15000,
+    "price_postapoc": 3000,
+    "to_hit": -3,
+    "range": 4,
+    "dispersion": 450,
+    "durability": 6,
+    "modes": [ [ "DEFAULT", "Поток", 1 ], [ "AUTO", "Струя", 3 ] ],
+    "extend": { "flags": [ "NEVER_JAMS", "FIRESTARTER", "BELTED", "ONLY_ONE", "PRIMITIVE_RANGED_WEAPON", "IS_ARMOR" ] },
+    "armor_data": {
+      "armor": [
+        {
+          "material": [ { "type": "steel", "covered_by_mat": 100, "thickness": 1.5 } ],
+          "volume_encumber_modifier": 0.25,
+          "encumbrance": [ 0, 50 ],
+          "coverage": 70,
+          "covers": [ "torso" ],
+          "specifically_covers": [ "torso_hanging_back" ]
+        }
+      ]
+    },
+    "valid_mod_locations": [ [ "rail mount", 1 ], [ "grip", 1 ], [ "sights mount", 1 ], [ "stock mount", 1 ], [ "underbarrel mount", 1 ] ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "watertight": true, "ammo_restriction": { "flammable": 1000 } } ],
+    "melee_damage": { "bash": 8 }
+  }
+]
