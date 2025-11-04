@@ -1,0 +1,17 @@
+[
+  {
+    "id": "MINE_LEVEL1",
+    "name": "Шахта",
+    "type": "tool_quality"
+  },
+  {
+    "id": "ORE_SMELTING",
+    "name": "Переплавка руды",
+    "type": "tool_quality"
+  },
+  {
+    "id": "SOIL_SIFTING",
+    "name": "Просеивание грунта",
+    "type": "tool_quality"
+  }
+]

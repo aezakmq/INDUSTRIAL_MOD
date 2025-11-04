@@ -1,0 +1,26 @@
+[
+  {
+    "type": "TOOL",
+    "id": "fake_oil_derrick",
+    "name": { "str_sp": "Нефтяная вышка (фиктивный объект)" },
+    "description": "Технический фиктивный инструмент.",
+    "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
+    "weight": "1 g",
+    "volume": "1 ml",
+    "symbol": "T",
+    "color": "dark_gray",
+    "qualities": [ [ "OIL_PUMP", 1 ] ]
+  },
+  {
+    "type": "TOOL",
+    "name": { "str_sp": "Печь для перегонки нефти (фиктивный объект)" },
+    "description": "Технический фиктивный инструмент.",
+    "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
+    "weight": "1 g",
+    "volume": "1 ml",
+    "symbol": "@",
+    "color": "red",
+    "id": "fake_oil_refinery",
+    "qualities": [ [ "DISTILL", 3 ], [ "COOK", 2 ], [ "CONTAIN", 2 ] ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "ammunition_type",
+    "id": "fluid_crude_oil",
+    "name": "Сырая нефть",
+    "default": "fluid_crude_oil"
+  },
+  {
+    "type": "ammunition_type",
+    "id": "fuel_oil",
+    "name": "мазут",
+    "default": "fuel_oil"
+  }
+]

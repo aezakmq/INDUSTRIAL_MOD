@@ -1,0 +1,74 @@
+[
+  {
+    "type": "recipe",
+    "result": "oil_pump_tool_corded",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_TOOLS",
+    "skill_used": "fabrication",
+    "skills_required": [ "electronics", 6 ],
+    "difficulty": 8,
+    "time": "740 m",
+    "activity_level": "MODERATE_EXERCISE",
+    "book_learn": [
+      [ "textbook_mechanics", 6 ],
+      [ "textbook_carpentry", 6 ],
+      [ "advanced_electronics", 5 ],
+      [ "textbook_electronics", 5 ]
+    ],
+    "//": "200cm weld",
+    "using": [ [ "welding_standard", 200 ], [ "soldering_standard", 80 ] ],
+    "proficiencies": [
+      { "proficiency": "prof_welding_basic" },
+      { "proficiency": "prof_welding" },
+      { "proficiency": "prof_elec_soldering" },
+      { "proficiency": "prof_elec_circuits" }
+     ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "SCREW", "level": 1 },
+      { "id": "WRENCH", "level": 1}
+    ],
+      "components": [
+        [ [ "motor", 1 ] ],
+        [ [ "pipe", 12 ] ],
+        [ [ "cable", 12 ] ],
+        [ [ "plastic_chunk", 30 ] ],
+        [ [ "steel_chunk", 24 ] ],
+        [ [ "scrap", 12 ] ]
+      ],
+      "autolearn": false
+  },
+  {
+    "type": "recipe",
+    "result": "oil_refinery_heater",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "skills_required": [ "electronics", 6 ],
+    "difficulty": 8,
+    "time": "540 m",
+    "activity_level": "MODERATE_EXERCISE",
+      "book_learn": [
+        [ "textbook_mechanics", 6 ],
+        [ "textbook_carpentry", 6 ],
+        [ "advanced_electronics", 5 ],
+        [ "textbook_electronics", 5 ]
+    ],
+    "using": [ [ "soldering_standard", 200 ], [ "welding_standard", 400 ] ],
+    "proficiencies": [
+      { "proficiency": "prof_welding_basic" },
+      { "proficiency": "prof_welding" },
+      { "proficiency": "prof_elec_soldering" },
+      { "proficiency": "prof_elec_circuits" }
+     ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 }
+    ],
+    "components": [
+      [ [ "wire", 200 ] ],
+      [ [ "steel_chunk", 24 ] ],
+      [ [ "copper_wire", 320 ] ]
+    ],
+    "autolearn": false
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "type": "construction",
+    "id": "constr_place_oil_derrick",
+    "group": "GROUP_OIL_DERICK",
+    "category": "DIG",
+    "required_skills": [ [ "fabrication", 6 ], [ "mechanics", 4 ] ],
+    "time": "720 m",
+    "components": [
+      [ [ "oil_derrick_item", 1 ] ]
+    ],
+    "qualities": [
+      { "id": "DIG", "level": 3 },
+      { "id": "HAMMER", "level": 2 },
+      { "id": "SCREW", "level": 1 },
+      { "id": "WRENCH", "level": 2 }
+    ],
+    "tools": [ [ ["pickaxe", -1 ], [ "bronze_pickaxe", -1 ], [ "jackhammer", 160 ], [ "elec_jackhammer", 2112 ] ] ],
+    "byproducts": [ { "group": "digging_soil_loam_50L" }, { "group": "mining_rock" } ],
+    "post_terrain": "f_oil_derrick",
+    "activity_level": "MODERATE_EXERCISE"
+  },
+  {
+    "type": "construction",
+    "id": "constr_place_oil_refinery",
+    "group": "GROUP_OIL_REFINERY",
+    "required_skills": [ [ "fabrication", 6 ], [ "mechanics", 4 ] ],
+    "time": "420 m",
+    "components": [
+      [ [ "oil_refinery_item", 1 ] ]
+    ],
+    "qualities": [
+      { "id": "HAMMER", "level": 2 },
+      { "id": "SCREW", "level": 1 },
+      { "id": "WRENCH", "level": 2 }
+    ],
+    "post_terrain": "f_oil_refinery",
+    "activity_level": "MODERATE_EXERCISE"
+  }
+]

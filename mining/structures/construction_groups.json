@@ -1,0 +1,17 @@
+[
+  {
+    "type": "construction_group",
+    "id": "GROUP_MINING",
+    "name": "Шахта"
+  },
+  {
+    "type": "construction_group",
+    "id": "GROUP_SMELTING",
+    "name": "Печь для переплавки руды"
+  },
+  {
+    "type": "construction_group",
+    "id": "GROUP_SOIL_SIFTER",
+    "name": "Просеиватель грунта"
+  }
+]

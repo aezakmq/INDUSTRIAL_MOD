@@ -1,0 +1,64 @@
+[
+  {
+    "id": "stone_pickaxe",
+    "type": "TOOL",
+    "name": { "str": "каменная кирка", "str_pl": "каменные кирки" },
+    "description": "Простая кирка, сделанная из камня и дерева. Достаточно прочная для добычи руды в шахтах.",
+    "weight": "3000 g",
+    "volume": "3 L",
+    "longest_side": "91 cm",
+    "price": 0,
+    "price_postapoc": 0,
+    "to_hit": -3,
+    "material": [ "wood", "stone" ],
+    "symbol": "/",
+    "color": "light_gray",
+    "use_action": [ "PICKAXE" ],
+    "techniques": [ "WBLOCK_1" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "DIG_TOOL", "SHEATH_AXE" ],
+    "weapon_category": [ "HOOKING_WEAPONRY" ],
+    "melee_damage": { "bash": 12, "stab": 5 }
+  },
+  {
+    "id": "electric_crucible",
+    "type": "TOOL",
+    "name": { "str": "электрический тигель", "str_pl": "электрические тигли" },
+    "description": "Электрический тигель для плавки металлов. Использует электричество для нагрева и поддержания высокой температуры.",
+    "weight": "8000 g",
+    "volume": "15 L",
+    "longest_side": "45 cm",
+    "price": 50000,
+    "price_postapoc": 1000,
+    "material": [ "steel", "ceramic" ],
+    "symbol": "O",
+    "color": "dark_gray",
+    "charges_per_use": 100,
+    "use_action": [ "HOTPLATE", { "type": "link_up", "cable_length": 10, "charge_rate": "1000 W" } ],
+    "flags": [ "ALLOWS_REMOTE_USE", "ELECTRONIC" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "rigid": true,
+        "flag_restriction": [ "BATTERY_MEDIUM" ],
+        "default_magazine": "medium_battery_cell"
+      }
+    ]
+  },
+  {
+    "id": "primitive_anvil_mold",
+    "type": "TOOL",
+    "name": { "str": "форма для отлива примитивной наковальни", "str_pl": "формы для отлива примитивной наковальни" },
+    "description": "Керамическая форма для отлива простой наковальни из расплавленного металла.",
+    "weight": "2000 g",
+    "volume": "18 L",
+    "longest_side": "81 cm",
+    "price": 0,
+    "price_postapoc": 0,
+    "to_hit": -2,
+    "material": [ "clay" ],
+    "symbol": "=",
+    "color": "brown",
+    "flags": [ "FRAGILE_MELEE" ],
+    "melee_damage": { "bash": 2 }
+  }
+]

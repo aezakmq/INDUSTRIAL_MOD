@@ -1,0 +1,73 @@
+[
+  {
+    "type": "recipe",
+    "result": "oil_derrick_item",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "skills_required": [ "mechanics", 6 ],
+    "difficulty": 8,
+    "time": "4800 m",
+    "activity_level": "MODERATE_EXERCISE",
+    "autolearn": false,
+    "book_learn": [ [ "welding_book", 6 ] ],
+    "qualities": [
+        { "id": "HAMMER", "level": 2 },
+        { "id": "SAW_M", "level": 2 },
+        { "id": "SCREW", "level": 1 },
+        { "id": "WRENCH", "level": 2 }
+      ],
+      "using": [
+        [ "welding_standard", 1000 ]
+      ],
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" },
+      { "proficiency": "prof_welding_basic", "skill_penalty": 0.5 },
+      { "proficiency": "prof_welding" }
+    ],
+    "components": [
+      [ [ "steel_chunk", 45 ] ],
+      [ [ "frame", 4 ] ],
+      [ [ "pipe", 80 ] ],
+      [ [ "wire", 20 ] ],
+      [ [ "pipe_fittings", 20 ] ],
+      [ [ "nuts_bolts", 100 ] ],
+      [ [ "sheet_metal_small", 18 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "oil_refinery_item",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "skills_required": [ "mechanics", 6 ],
+    "difficulty": 8,
+    "time": "1440 m",
+    "activity_level": "MODERATE_EXERCISE",
+    "book_learn": [ [ "welding_book", 6 ] ],
+    "qualities": [
+        { "id": "HAMMER", "level": 2 },
+        { "id": "SAW_M", "level": 2 },
+        { "id": "SCREW", "level": 1 },
+        { "id": "WRENCH", "level": 2 }
+      ],
+    "components": [
+      [ [ "55gal_drum", 1 ] ],
+      [ [ "fire_brick", 45 ] ],
+      [ [ "frame", 4 ] ],
+      [ [ "pipe_fittings", 35 ] ],
+      [ [ "nuts_bolts", 80 ] ],
+      [ [ "steel_chunk", 40 ], [ "scrap", 120 ] ]
+    ],
+    "using": [
+      [ "welding_standard", 400 ]
+    ],
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" },
+      { "proficiency": "prof_welding_basic", "skill_penalty": 0.5 },
+      { "proficiency": "prof_welding" }
+    ],
+    "autolearn": false
+  }
+]
