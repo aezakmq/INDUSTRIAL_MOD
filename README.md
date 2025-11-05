@@ -70,6 +70,6 @@
 
 ## Production Chain
 1. **Extraction:** Oil Derrick → Crude Oil
-2. **Refining:** Furnace + Heaters → Fuel Oil + Gasoline + Diesel + Lamp Oil
+2. **Refining:** Furnace + Heaters → Fuel Oil + Gasoline + Diesel + Kerosene
 3. **Processing:** Fuel Oil → Motor Oil
 4. **Weapons:** Oil + Fuel Oil → Napalm for flamethrower
