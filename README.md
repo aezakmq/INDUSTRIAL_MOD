@@ -1,3 +1,4 @@
+for Cataclysm: Dark Days Ahead 0.H Herbert
 # 🏭 Mining
 
 ## Новые предметы
