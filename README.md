@@ -16,7 +16,7 @@
 - `anvil_crude` (id_suffix: ore_cast) - crude anvil (fabrication 3)
 
 ## New Resources
-- `ore_slag` - ore slag (survival 4)
+- `ore_slag` - ore slag (survival 2)
 - `metal_soil` - metal soil (survival 2)
 - `iron_ore` - iron ore (survival 2, fabrication 2)
 - `copper_ore` - copper ore (survival 2, fabrication 2)
