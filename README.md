@@ -1,0 +1,69 @@
+# 🏭 Mining
+
+## Новые предметы
+- `stone_pickaxe` - каменная кирка (survival 1)
+- `electric_crucible` - электрический тигель (fabrication 3, electronics 3) [textbook_fabrication, advanced_electronics]
+
+## Новые постройки
+- `constr_dig_mine_level1` - Шахта (survival 4, fabrication 6)
+- `constr_ore_smelting_furnace` - Печь для переплавки руды (fabrication 4, survival 2)
+- `constr_soil_sifter` - Просеиватель грунта (fabrication 3, survival 1)
+
+## Новые ресурсы
+- `ore_slag` - рудосодержащий шлак (survival 2)
+- `metal_soil` - грунт содержащий металлы (survival 2)
+- `iron_ore` - железная руда (survival 2, fabrication 2)
+- `copper_ore` - медная руда (survival 2, fabrication 2)
+- `tin_ore` - оловянная руда (survival 2, fabrication 2)
+- `lead_ore` - свинцовая руда (survival 2, fabrication 2)
+- `aluminum_ore` - алюминиевая руда (survival 2, fabrication 2)
+
+## Новые материалы
+- `material_rhodonite` - родонит (survival 2, fabrication 2)
+- `coal_lump` - уголь (survival 2, fabrication 2)
+- `material_zincite` - цинкит (survival 2, fabrication 2)
+- `material_shrd_limestone` - известняк (survival 2, fabrication 2)
+- `material_rocksalt` - каменная соль (survival 2, fabrication 2)
+
+## Новые металлы
+- `scrap` - железный лом (fabrication 2)
+- `copper` - медь (fabrication 2)
+- `scrap_tin` - оловянный лом (fabrication 2)
+- `lead` - свинец (fabrication 4)
+- `scrap_aluminum` - алюминиевый лом (fabrication 4)
+- `scrap_bronze` - бронзовый лом (fabrication 2)
+
+## Новые рецепты химикатов
+- `material_niter` - кристал селитры (chemistry 2, fabrication 2)
+- `chunk_sulfur` - кусок серы (chemistry 2, fabrication 2)
+
+---
+
+# 🛢️ Oil
+
+## Новые предметы
+- `oil_pump_tool_corded` - насос для нефтяной вышки (fabrication 8, electronics 6) [textbook_mechanics, textbook_carpentry, advanced_electronics, textbook_electronics]
+- `oil_refinery_heater` - нагревательные элементы для печи перегонки нефти (fabrication 8, electronics 6) [textbook_mechanics, textbook_carpentry, advanced_electronics, textbook_electronics]
+- `industrial_flamethrower` - кустарный огнемёт (fabrication 6, mechanics 4) [textbook_fabrication, textbook_mechanics]
+
+## Новые постройки
+- `constr_place_oil_derrick` - Нефтяная вышка (fabrication 6, mechanics 4)
+- `constr_place_oil_refinery` - Печь для перегонки нефти (fabrication 6, mechanics 4)
+
+## Новые ресурсы
+- `fluid_crude_oil` - сырая нефть (chemistry 1)
+- `fuel_oil` - мазут (chemistry 5) [textbook_chemistry]
+- `industrial_napalm` - кустарный напалм (chemistry 4, fabrication 2) [textbook_gaswarfare, textbook_chemistry, recipe_labchem]
+
+## Новые рецепты
+- `motor_oil` - моторное масло (chemistry 6) [catalytic_cracking_handbook]
+
+## Новые структуры
+- `oil_derrick_item` - нефтяная вышка (fabrication 8, mechanics 6) [welding_book]
+- `oil_refinery_item` - печь для перегонки нефти (fabrication 8, mechanics 6) [welding_book]
+
+## Цепочка производства
+1. **Добыча:** Нефтяная вышка → Сырая нефть
+2. **Перегонка:** Печь + Нагреватели → Мазут + Бензин + Дизель + Керосин
+3. **Обработка:** Мазут → Моторное масло
+4. **Оружие:** Нефть + Мазут → Напалм для огнемёта
