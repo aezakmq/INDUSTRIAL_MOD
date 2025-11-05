@@ -3,7 +3,7 @@
     "type": "MOD_INFO",
     "id": "industrial_mod",
     "name": "Industrial Mod",
-    "authors": [ "aezakmq" ],
+    "authors": [ "Aezakmq", "ApelAir" ],
     "description": "Modification adding makeshift industrial part to the game. Ore mining, oil extraction, all with further processing into useful liquids and items.",
     "category": "content",
     "dependencies": [ "dda" ]
