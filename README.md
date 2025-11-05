@@ -1,3 +1,4 @@
+last-experimental-build-2025-11-05-1518
 # 🏭 Mining
 
 ## New items
