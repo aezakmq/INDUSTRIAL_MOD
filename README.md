@@ -40,8 +40,8 @@
 - `scrap_bronze` (id_suffix: ore_alloy) - бронзовый лом (fabrication 2)
 
 ## Новые рецепты химикатов
-- `material_niter` - селитра (chemistry 2, fabrication 2)
-- `chunk_sulfur` - сера (chemistry 2, fabrication 2)
+- `material_niter` - кристал селитры (chemistry 2, fabrication 2)
+- `chunk_sulfur` - кусок серы (chemistry 2, fabrication 2)
 
 ---
 
