@@ -16,7 +16,7 @@
 - `anvil_crude` (id_suffix: ore_cast) - примитивная наковальня (fabrication 3)
 
 ## Новые ресурсы
-- `ore_slag` - рудосодержащий шлак (survival 4)
+- `ore_slag` - рудосодержащий шлак (survival 2)
 - `metal_soil` - грунт содержащий металлы (survival 2)
 - `iron_ore` - железная руда (survival 2, fabrication 2)
 - `copper_ore` - медная руда (survival 2, fabrication 2)
