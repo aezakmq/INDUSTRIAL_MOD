@@ -1,7 +1,8 @@
 [
   {
     "id": "oil_derrick_item",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str_sp": "Oil derrick" },
     "description": "Complex makeshift structure for crude oil extraction, folded for transportation.",
     "weight": "250 kg",
@@ -13,8 +14,9 @@
   },
   {
     "id": "oil_refinery_item",
-    "type": "TOOL",
-    "name": { "str_sp": "Oil refinery furnace" },
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
+    "name": { "str_sp": "Oil distillation furnace" },
     "description": "Furnace for distilling oil into various types of fuel.",
     "weight": "350 kg",
     "volume": "400 L",

@@ -7,11 +7,11 @@
   {
     "type": "construction_group",
     "id": "GROUP_SMELTING",
-    "name": "Ore Smelting Furnace"
+    "name": "Ore smelting furnace"
   },
   {
     "type": "construction_group",
     "id": "GROUP_SOIL_SIFTER",
-    "name": "Soil Sifter"
+    "name": "Soil sifter"
   }
 ]

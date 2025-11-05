@@ -6,12 +6,12 @@
   },
   {
     "id": "ORE_SMELTING",
-    "name": "Ore Smelting",
+    "name": "Ore smelting",
     "type": "tool_quality"
   },
   {
     "id": "SOIL_SIFTING",
-    "name": "Soil Sifting",
+    "name": "Soil sifting",
     "type": "tool_quality"
   }
 ]

@@ -10,7 +10,7 @@
   {
     "id": "fuel_oil",
     "type": "material",
-    "name": "Fuel oil",
+    "name": "fuel oil",
     "copy-from": "hydrocarbons",
     "density": 1.1,
     "fuel_data": { "energy": "25000 kJ" }

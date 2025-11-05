@@ -8,7 +8,7 @@
   {
     "type": "ammunition_type",
     "id": "fuel_oil",
-    "name": "Fuel oil",
+    "name": "fuel oil",
     "default": "fuel_oil"
   }
 ]

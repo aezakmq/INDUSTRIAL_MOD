@@ -44,7 +44,7 @@
     ],
     "post_terrain": "f_ore_smelting_furnace",
     "activity_level": "MODERATE_EXERCISE",
-    "pre_note": "Furnace for smelting ore from clay and fire bricks"
+    "pre_note": "Ore smelting furnace made of clay and refractory brick"
   },
   {
     "type": "construction",

@@ -2,7 +2,7 @@
   {
     "type": "furniture",
     "id": "f_oil_derrick",
-    "name": "Oil Derrick",
+    "name": "Oil derrick",
     "description": "Complex makeshift structure for crude oil extraction.",
     "symbol": "T",
     "color": "dark_gray",
@@ -27,7 +27,7 @@
   {
     "type": "furniture",
     "id": "f_oil_refinery",
-    "name": "Oil Refinery Furnace",
+    "name": "Oil distillation furnace",
     "description": "Small furnace designed for distilling crude oil into gasoline, diesel fuel and other fractions.",
     "symbol": "#",
     "color": "dark_gray",
