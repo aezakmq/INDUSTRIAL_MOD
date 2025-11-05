@@ -2,7 +2,7 @@
 
 ## Новые предметы
 - `stone_pickaxe` - каменная кирка (survival 1)
-- `electric_crucible` - электрический тигель (fabrication 3, electronics 3) [textbook_fabrication, advanced_electronics]
+- `electric_crucible` - электрический тигель (fabrication 3, electronics 3) [«Сделай Сам», «Современная электроника»]
 
 ## Новые постройки
 - `constr_dig_mine_level1` - Шахта (survival 4, fabrication 6)
@@ -42,9 +42,9 @@
 # 🛢️ Oil
 
 ## Новые предметы
-- `oil_pump_tool_corded` - насос для нефтяной вышки (fabrication 8, electronics 6) [textbook_mechanics, textbook_carpentry, advanced_electronics, textbook_electronics]
-- `oil_refinery_heater` - нагревательные элементы для печи перегонки нефти (fabrication 8, electronics 6) [textbook_mechanics, textbook_carpentry, advanced_electronics, textbook_electronics]
-- `industrial_flamethrower` - кустарный огнемёт (fabrication 6, mechanics 4) [textbook_fabrication, textbook_mechanics]
+- `oil_pump_tool_corded` - насос для нефтяной вышки (fabrication 8, electronics 6) [«Механика для профессионалов», «Инженерное дело», «Современная электроника», «Теория схемотехники»]
+- `oil_refinery_heater` - нагревательные элементы для печи перегонки нефти (fabrication 8, electronics 6) [«Механика для профессионалов», «Инженерное дело», «Современная электроника», «Теория схемотехники»]
+- `industrial_flamethrower` - кустарный огнемёт (fabrication 6, mechanics 4) [«Сделай Сам», «Механика для профессионалов»]
 
 ## Новые постройки
 - `constr_place_oil_derrick` - Нефтяная вышка (fabrication 6, mechanics 4)
@@ -52,15 +52,15 @@
 
 ## Новые ресурсы
 - `fluid_crude_oil` - сырая нефть (chemistry 1)
-- `fuel_oil` - мазут (chemistry 5) [textbook_chemistry]
-- `industrial_napalm` - кустарный напалм (chemistry 4, fabrication 2) [textbook_gaswarfare, textbook_chemistry, recipe_labchem]
+- `fuel_oil` - мазут (chemistry 5) [«учебник химии»]
+- `industrial_napalm` - кустарный напалм (chemistry 4, fabrication 2) [«Искусство и наука химической войны», «учебник химии», «химический справочник - ЗАСЕКРЕЧЕНО»]
 
 ## Новые рецепты
-- `motor_oil` - моторное масло (chemistry 6) [catalytic_cracking_handbook]
+- `motor_oil` - моторное масло (chemistry 6) [«Каталитический крекинг в домашних условиях»]
 
 ## Новые структуры
-- `oil_derrick_item` - нефтяная вышка (fabrication 8, mechanics 6) [welding_book]
-- `oil_refinery_item` - печь для перегонки нефти (fabrication 8, mechanics 6) [welding_book]
+- `oil_derrick_item` - нефтяная вышка (fabrication 8, mechanics 6) [«Сварка и металлургия»]
+- `oil_refinery_item` - печь для перегонки нефти (fabrication 8, mechanics 6) [«Сварка и металлургия»]
 
 ## Цепочка производства
 1. **Добыча:** Нефтяная вышка → Сырая нефть
