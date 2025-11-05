@@ -2,8 +2,8 @@
   {
     "type": "furniture",
     "id": "f_oil_derrick",
-    "name": "Oil Derrick",
-    "description": "Complex makeshift structure for crude oil extraction.",
+    "name": "Нефтяная вышка",
+    "description": "Сложная кустарная конструкция для добычи сырой нефти.",
     "symbol": "T",
     "color": "dark_gray",
     "move_cost_mod": 2,
@@ -27,8 +27,8 @@
   {
     "type": "furniture",
     "id": "f_oil_refinery",
-    "name": "Oil Refinery Furnace",
-    "description": "Small furnace designed for distilling crude oil into gasoline, diesel fuel and other fractions.",
+    "name": "Печь для перегонки нефти",
+    "description": "Малая печь, предназначенная для перегонки сырой нефти в бензин, дизельное топливо и другие фракции.",
     "symbol": "#",
     "color": "dark_gray",
     "move_cost_mod": 2,

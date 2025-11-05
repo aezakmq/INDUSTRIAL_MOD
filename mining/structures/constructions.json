@@ -21,7 +21,7 @@
     "byproducts": [ { "group": "digging_soil_loam_50L" }, { "group": "mining_rock" } ],
     "post_terrain": "f_mine_level1",
     "activity_level": "BRISK_EXERCISE",
-    "pre_note": "Mine for ore extraction"
+    "pre_note": "Шахта для добычи руды"
   },
   {
     "type": "construction",
@@ -44,7 +44,7 @@
     ],
     "post_terrain": "f_ore_smelting_furnace",
     "activity_level": "MODERATE_EXERCISE",
-    "pre_note": "Furnace for smelting ore from clay and fire bricks"
+    "pre_note": "Печь для переплавки руды из глины и огнеупорного кирпича"
   },
   {
     "type": "construction",
@@ -68,6 +68,6 @@
     ],
     "post_terrain": "f_soil_sifter",
     "activity_level": "LIGHT_EXERCISE",
-    "pre_note": "Soil sifter for extracting useful materials"
+    "pre_note": "Просеиватель грунта для извлечения полезных материалов"
   }
 ]

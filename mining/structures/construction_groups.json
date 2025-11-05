@@ -2,16 +2,16 @@
   {
     "type": "construction_group",
     "id": "GROUP_MINING",
-    "name": "Mine"
+    "name": "Шахта"
   },
   {
     "type": "construction_group",
     "id": "GROUP_SMELTING",
-    "name": "Ore Smelting Furnace"
+    "name": "Печь для переплавки руды"
   },
   {
     "type": "construction_group",
     "id": "GROUP_SOIL_SIFTER",
-    "name": "Soil Sifter"
+    "name": "Просеиватель грунта"
   }
 ]

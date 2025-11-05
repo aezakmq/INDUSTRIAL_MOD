@@ -2,11 +2,11 @@
   {
     "type": "construction_group",
     "id": "GROUP_OIL_DERICK",
-    "name": "Oil Derrick"
+    "name": "Нефтяная вышка"
   },
   {
     "type": "construction_group",
     "id": "GROUP_OIL_REFINERY",
-    "name": "Oil Refinery Furnace"
+    "name": "Печь для перегонки нефти"
   }
 ]

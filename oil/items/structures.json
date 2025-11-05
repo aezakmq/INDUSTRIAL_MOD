@@ -1,9 +1,10 @@
 [
   {
     "id": "oil_derrick_item",
-    "type": "TOOL",
-    "name": { "str_sp": "Oil derrick" },
-    "description": "Complex makeshift structure for crude oil extraction, folded for transportation.",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
+    "name": { "str_sp": "Нефтяная вышка" },
+    "description": "Сложная кустарная конструкция для добычи сырой нефти, сложенная для транспортировки.",
     "weight": "250 kg",
     "volume": "500 L",
     "symbol": "T",
@@ -13,9 +14,10 @@
   },
   {
     "id": "oil_refinery_item",
-    "type": "TOOL",
-    "name": { "str_sp": "Oil refinery furnace" },
-    "description": "Furnace for distilling oil into various types of fuel.",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
+    "name": { "str_sp": "Печь для перегонки нефти" },
+    "description": "Печь для перегонки нефти в различные виды топлива.",
     "weight": "350 kg",
     "volume": "400 L",
     "symbol": "R",

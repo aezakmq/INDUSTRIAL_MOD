@@ -1,7 +1,7 @@
 [
   {
     "id": "OIL_PUMP",
-    "name": "Oil Extraction",
+    "name": "Нефтедобыча",
     "type": "tool_quality"
   }
 ]

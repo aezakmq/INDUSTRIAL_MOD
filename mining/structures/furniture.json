@@ -2,8 +2,8 @@
   {
     "type": "furniture",
     "id": "f_mine_level1",
-    "name": "Mine",
-    "description": "Makeshift mine for ore extraction. Dug manually using simple tools.",
+    "name": "Шахта",
+    "description": "Кустарная шахта для добычи руды. Вырыта вручную с помощью простых инструментов.",
     "symbol": "O",
     "color": "brown",
     "move_cost_mod": 3,
@@ -28,9 +28,9 @@
   {
     "type": "furniture",
     "id": "f_ore_smelting_furnace",
-    "name": "Ore Smelting Furnace",
+    "name": "Печь для переплавки руды",
     "looks_like": "f_clay_oven",
-    "description": "Simple furnace for smelting ore into metal. Made from clay and fire bricks with a chimney for smoke venting.",
+    "description": "Простая печь для переплавки руды в металл. Сделана из глины и огнеупорного кирпича с дымоходом для отвода дыма.",
     "symbol": "U",
     "color": "brown",
     "move_cost_mod": -1,
@@ -65,8 +65,8 @@
   {
     "type": "furniture",
     "id": "f_soil_sifter",
-    "name": "Soil Sifter",
-    "description": "Simple device for sifting soil and extracting useful materials. Made from woven sieves and wooden frame.",
+    "name": "Просеиватель грунта",
+    "description": "Простое устройство для просеивания грунта и извлечения полезных материалов. Сделано из плетеных сит и деревянной рамы.",
     "symbol": "S",
     "color": "brown",
     "move_cost_mod": 2,

@@ -2,13 +2,13 @@
   {
     "type": "ammunition_type",
     "id": "fluid_crude_oil",
-    "name": "Crude oil",
+    "name": "Сырая нефть",
     "default": "fluid_crude_oil"
   },
   {
     "type": "ammunition_type",
     "id": "fuel_oil",
-    "name": "Fuel oil",
+    "name": "мазут",
     "default": "fuel_oil"
   }
 ]

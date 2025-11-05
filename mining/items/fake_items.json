@@ -1,9 +1,10 @@
 [
   {
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "id": "fake_mine_level1",
-    "name": { "str_sp": "Mine (fake object)" },
-    "description": "Technical fake tool for ore extraction.",
+    "name": { "str_sp": "Шахта (фиктивный объект)" },
+    "description": "Технический фиктивный инструмент для добычи руды.",
     "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
     "weight": "1 g",
     "volume": "1 ml",
@@ -12,10 +13,11 @@
     "qualities": [ [ "MINE_LEVEL1", 1 ] ]
   },
   {
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "id": "fake_ore_smelting_furnace",
-    "name": { "str_sp": "Ore Smelting Furnace (fake object)" },
-    "description": "Technical fake tool for ore smelting.",
+    "name": { "str_sp": "Печь для переплавки руды (фиктивный объект)" },
+    "description": "Технический фиктивный инструмент для переплавки руды.",
     "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
     "weight": "1 g",
     "volume": "1 ml",
@@ -24,10 +26,11 @@
     "qualities": [ [ "ORE_SMELTING", 1 ] ]
   },
   {
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "id": "fake_soil_sifter",
-    "name": { "str_sp": "Soil Sifter (fake object)" },
-    "description": "Technical fake tool for soil sifting.",
+    "name": { "str_sp": "Просеиватель грунта (фиктивный объект)" },
+    "description": "Технический фиктивный инструмент для просеивания грунта.",
     "flags": [ "ZERO_WEIGHT", "DEBUG_ONLY" ],
     "weight": "1 g",
     "volume": "1 ml",
