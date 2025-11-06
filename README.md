@@ -38,6 +38,93 @@ for last-experimental-build-2025-11-05-1518
 - `material_niter` - кристал селитры (chemistry 2, fabrication 2)
 - `chunk_sulfur` - кусок серы (chemistry 2, fabrication 2)
 
+## Добавлены рецепты безкапсюльных гильз
+
+<details>
+  <summary>Click to see Details</summary>
+  
+- unprimed_3030_casing
+
+- unprimed_270win_casing
+
+- unprimed_460sw_casing
+
+- unprimed_450_casing
+
+- unprimed_500_casing
+
+- unprimed_77arisaka_casing
+
+- unprimed_300_casing
+
+- unprimed_454_casing
+
+- unprimed_357mag_casing
+
+- unprimed_50beowulf_casing
+
+- unprimed_30carbine_casing
+
+- unprimed_38_casing
+
+- unprimed_44_casing
+
+- unprimed_762R_casing
+
+- unprimed_338lapua_casing
+
+- unprimed_762_casing
+
+- unprimed_762_25_casing
+
+- unprimed_762_51_casing
+
+- unprimed_38super_casing
+
+- unprimed_545_casing
+
+- unprimed_10mm_casing
+
+- unprimed_45colt_casing
+
+- unprimed_380_casing
+
+- unprimed_357sig_casing
+
+- unprimed_57mm_casing
+
+- unprimed_300blk_casing
+
+- unprimed_32_casing
+
+- unprimed_50_casing
+
+- unprimed_45_casing
+
+- unprimed_40_casing
+
+- unprimed_458wm_casing
+
+- unprimed_50ae_casing
+
+- unprimed_4570_casing
+
+- unprimed_9mm_casing
+
+- unprimed_9x18mm_casing
+
+- unprimed_123ln_casing
+
+- unprimed_3006_casing
+
+- unprimed_308_casing
+
+- unprimed_223_casing
+
+- unprimed_303_casing
+
+</details>
+
 ---
 
 # 🛢️ Oil
