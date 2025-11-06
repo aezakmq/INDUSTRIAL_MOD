@@ -1,0 +1,34 @@
+[
+  {
+    "type": "recipe",
+    "result": "scrap_brass",
+    "id_suffix": "scrap_brass_1",
+    "byproducts": [
+      ["scrap_brass", 9]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "50 m",
+    "batch_time_factors": [ 80, 1 ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" },
+      { "proficiency": "prof_blacksmithing" }
+    ],
+    "qualities": [
+      { "id": "ORE_SMELTING", "level": 1 }
+    ],
+    "tools": [
+      [ [ "crucible_clay", -1 ], [ "electric_crucible", -1 ] ],
+      [ [ "coal_lump", 150 ], [ "charcoal", 150 ], [ "electric_crucible", 750 ] ]
+    ],
+    "components": [
+      [ [ "copper", 300 ] ],
+      [ [ "zinc_metal", 855 ] ]
+    ]
+  }
+]
