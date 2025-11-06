@@ -123,7 +123,7 @@ for last-experimental-build-2025-11-05-1518
 - unprimed_223_casing
 
 - unprimed_303_casing
-<details>
+
 ---
 
 # 🛢️ Oil
