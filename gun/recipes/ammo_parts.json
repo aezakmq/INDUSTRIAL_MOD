@@ -1,0 +1,1002 @@
+[
+  {
+    "type": "recipe",
+    "result": "unprimed_3030_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_3030_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_270win_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_270win_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_460sw_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_460sw_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_450_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_450_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_500_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_500_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_77arisaka_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_77arisaka_casing", 59]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_300_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_300_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_454_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_454_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_357mag_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_357mag_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_50beowulf_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_50beowulf_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_30carbine_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_30carbine_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_38_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_38_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_44_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_44_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_762R_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_762R_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+    {
+    "type": "recipe",
+    "result": "unprimed_338lapua_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_338lapua_casing", 16]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_762_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_762_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_762_25_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_762_25_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_762_51_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_762_51_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_38super_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_38super_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_545_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_545_casing", 75]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_10mm_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_10mm_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_45colt_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_45colt_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_380_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_380_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_357sig_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_357sig_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_57mm_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_57mm_casing", 149]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_300blk_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_300blk_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_32_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_32_casing", 149]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_50_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_50_casing", 16]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_45_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_45_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_40_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_40_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_458wm_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_458wm_casing", 22]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_50ae_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_50ae_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_4570_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_4570_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_9mm_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_9mm_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_9x18mm_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_9x18mm_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_123ln_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_123ln_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_3006_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_3006_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_308_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_308_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_223_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_223_casing", 60]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "unprimed_303_casing",
+    "id_suffix": "ammo_parts",
+    "byproducts": [
+      ["unprimed_303_casing", 42]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" }
+    ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [
+      [ [ "scrap_brass", 1 ] ]
+    ]
+  }
+]
