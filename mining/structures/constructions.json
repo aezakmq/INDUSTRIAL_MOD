@@ -5,7 +5,7 @@
     "group": "GROUP_MINING",
     "category": "DIG",
     "required_skills": [ [ "survival", 4 ], [ "fabrication", 6 ] ],
-    "time": "1800 m",
+    "time": "600 m",
     "components": [
       [ [ "2x4", 25 ] ],
       [ [ "wood_beam", 4 ] ],
@@ -32,11 +32,11 @@
       [ "fabrication", 4 ],
       [ "survival", 2 ]
     ],
-    "time": "1800 m",
+    "time": "400 m",
     "components": [
-      [ [ "rock", 30 ] ],
-      [ [ "fire_brick", 10 ] ],
-      [ [ "clay_lump", 5 ] ]
+      [ [ "rock", 20 ] ],
+      [ [ "fire_brick", 15 ] ],
+      [ [ "clay_lump", 8 ] ]
     ],
     "qualities": [
       { "id": "HAMMER", "level": 2 },
