@@ -12,9 +12,9 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 - `constr_soil_sifter` - Просеиватель грунта (fabrication 3, survival 1)
 
 ## Новые рецепты
-- `metalworking_tongs` (id_suffix: primitive_tongs) - кузнечные клещи (fabrication 2)
-- `casting_mold` (id_suffix: primitive_mold) - песочная форма (fabrication 3)
-- `anvil_crude` (id_suffix: ore_cast) - примитивная наковальня (fabrication 3)
+- `metalworking_tongs` - кузнечные клещи (fabrication 2)
+- `casting_mold` - песочная форма (fabrication 3)
+- `anvil_crude` - примитивная наковальня (fabrication 3)
 
 ## Новые ресурсы
 - `ore_slag` - рудосодержащий шлак (survival 2)
@@ -37,12 +37,128 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 - `copper` - медь (fabrication 2)
 - `scrap_tin` - оловянный лом (fabrication 2)
 - `lead` - свинец (fabrication 4)
-- `scrap_aluminum` (id_suffix: aluminum_ore) - алюминиевый лом (fabrication 4)
-- `scrap_bronze` (id_suffix: ore_alloy) - бронзовый лом (fabrication 2)
+- `scrap_aluminum` - алюминиевый лом (fabrication 4)
+- `scrap_bronze` - бронзовый лом (fabrication 2)
+- `scrap_brass` - латунный обломок (fabrication 4)
 
 ## Новые рецепты химикатов
 - `material_niter` - кристал селитры (chemistry 2, fabrication 2)
 - `chunk_sulfur` - кусок серы (chemistry 2, fabrication 2)
+
+## Добавлены рецепты гильз и переработка в латунный обломок
+
+<details>
+  <summary>Нажмите, чтобы увидеть подробности</summary>
+  
+- 223_casing
+
+- 22_casing
+
+- 22_casing_new
+
+- 22_casing_new_short
+
+- 3006_casing
+
+- 123ln_casing
+
+- 270win_casing
+
+- 303_casing
+
+- 300_casing
+
+- 308_casing
+
+- 762_51_casing
+
+- 32_casing
+
+- 38_casing
+
+- 38super_casing
+
+- 40_casing
+
+- 10mm_casing
+
+- 40x46mm_m212_casing
+
+- 40x46mm_m118_casing
+
+- 40x46mm_m199_casing
+
+- 40x46mm_m195_casing
+
+- 40x46mm_hornets_nest_22lr_casing
+
+- 40x46mm_hornets_nest_410_casing
+
+- 40x53mm_m169_casing
+
+- 44_casing
+
+- 454_casing
+
+- 45_casing
+
+- 45colt_casing
+
+- 4570_casing
+
+- 50beowulf_casing
+
+- 450_casing
+
+- 46mm_casing
+
+- 460_casing
+
+- 500_casing
+
+- 50_casing
+
+- 338lapua_casing
+
+- 77arisaka_casing
+
+- 545_casing
+
+- 57mm_casing
+
+- 458wm_casing
+
+- 762R_casing
+
+- 762_casing
+
+- 762_25_casing
+
+- 9mm_casing
+
+- 357sig_casing
+
+- 357mag_casing
+
+- 9x18mm_casing
+
+- 380_casing
+
+- shot_hull
+
+- 410shot_hull
+
+- 300blk_casing
+
+- 30carbine_casing
+
+- 273x110casing
+
+- 273x44casing
+
+- 50ae_casing
+
+</details>
 
 ---
 
