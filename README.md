@@ -19,14 +19,14 @@ for last-experimental-build-2025-11-05-1518
 - `lead_ore` - lead ore (survival 2, fabrication 2)
 - `aluminum_ore` - aluminum ore (survival 2, fabrication 2)
 
-## New materials
+## New materials from the main game
 - `material_rhodonite` - rhodonite (survival 2, fabrication 2)
 - `coal_lump` - coal (survival 2, fabrication 2)
 - `material_zincite` - zincite (survival 2, fabrication 2)
 - `material_shrd_limestone` - limestone (survival 2, fabrication 2)
 - `material_rocksalt` - rock salt (survival 2, fabrication 2)
 
-## New metals
+## New metals from the main game
 - `scrap` - iron scrap (fabrication 2)
 - `copper` - copper (fabrication 2)
 - `scrap_tin` - tin scrap (fabrication 2)
@@ -35,7 +35,10 @@ for last-experimental-build-2025-11-05-1518
 - `scrap_bronze` - bronze scrap (fabrication 2)
 - `scrap_brass` - chunk of brass (fabrication 5)
 
-## New chemical recipes
+## New metals
+- `scrap_brass` - chunk of brass (fabrication 5)
+  
+## New chemical recipes from the main game
 - `material_niter` - niter crystal (chemistry 2, fabrication 2)
 - `chunk_sulfur` - sulfur chunk (chemistry 2, fabrication 2)
   
