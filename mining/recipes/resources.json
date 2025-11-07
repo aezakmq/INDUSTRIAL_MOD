@@ -444,8 +444,8 @@
     "skill_used": "fabrication",
     "skills_required": [ "fabrication", 2 ],
     "difficulty": 4,
-    "time": "200 m",
-    "batch_time_factors": [ 45, 1 ],
+    "time": "160 m",
+    "batch_time_factors": [ 75, 1 ],
     "activity_level": "MODERATE_EXERCISE",
     "autolearn": true,
     "proficiencies": [
