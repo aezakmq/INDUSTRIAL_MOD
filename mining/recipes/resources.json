@@ -6,8 +6,8 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
     "difficulty": 2,
-    "time": "60 m",
-    "activity_level": "BRISK_EXERCISE",
+    "time": "28 m",
+    "activity_level": "MODERATE_EXERCISE",
     "autolearn": true,
     "qualities": [
       { "id": "MINE_LEVEL1", "level": 1 },
