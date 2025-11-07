@@ -412,16 +412,15 @@
     "type": "recipe",
     "result": "metal_soil",
     "byproducts": [
-      ["material_soil", 50],
-      ["clay_lump", 10],
-      ["material_sand", 1000]
+      ["material_soil", 5],
+      ["clay_lump", 1],
+      ["material_sand", 100]
     ],
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
     "difficulty": 2,
-    "time": "35 m",
-    "batch_time_factors": [ 50, 1 ],
+    "time": "12 m",
     "activity_level": "MODERATE_EXERCISE",
     "autolearn": true,
     "qualities": [
@@ -429,7 +428,7 @@
       { "id": "DIG", "level": 1 }
     ],
     "components": [
-      [ [ "material_soil", 100 ] ]
+      [ [ "material_soil", 10 ] ]
     ]
   },
   {
