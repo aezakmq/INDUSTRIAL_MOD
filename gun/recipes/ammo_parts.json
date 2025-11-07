@@ -1,0 +1,1042 @@
+[
+  {
+    "type": "recipe",
+    "result": "223_casing",
+    "byproducts": [
+      ["223_casing", 59]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "22_casing",
+    "byproducts": [
+      ["22_casing", 149]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "3006_casing",
+    "byproducts": [
+      ["3006_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "123ln_casing",
+    "byproducts": [
+      ["123ln_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "270win_casing",
+    "byproducts": [
+      ["270win_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "303_casing",
+    "byproducts": [
+      ["303_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "300_casing",
+    "byproducts": [
+      ["300_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "308_casing",
+    "byproducts": [
+      ["308_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "762_51_casing",
+    "byproducts": [
+      ["762_51_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "32_casing",
+    "byproducts": [
+      ["32_casing", 149]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "38_casing",
+    "byproducts": [
+      ["38_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "38super_casing",
+    "byproducts": [
+      ["38super_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40_casing",
+    "byproducts": [
+      ["40_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "10mm_casing",
+    "byproducts": [
+      ["10mm_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40x46mm_m212_casing",
+    "byproducts": [
+      ["40x46mm_m212_casing", 4]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "steel_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40x46mm_m118_casing",
+    "byproducts": [
+      ["40x46mm_m118_casing", 4]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "steel_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40x46mm_m199_casing",
+    "byproducts": [
+      ["40x46mm_m199_casing", 4]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "steel_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40x46mm_m195_casing",
+    "byproducts": [
+      ["40x46mm_m195_casing", 4]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "steel_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40x46mm_hornets_nest_22lr_casing",
+    "byproducts": [
+      ["40x46mm_hornets_nest_22lr_casing", 4]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "steel_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40x46mm_hornets_nest_410_casing",
+    "byproducts": [
+      ["40x46mm_hornets_nest_410_casing", 4]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "steel_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "40x53mm_m169_casing",
+    "byproducts": [
+      ["40x53mm_m169_casing", 4]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "steel_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "44_casing",
+    "byproducts": [
+      ["44_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "454_casing",
+    "byproducts": [
+      ["454_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "45_casing",
+    "byproducts": [
+      ["45_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "45colt_casing",
+    "byproducts": [
+      ["45colt_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "4570_casing",
+    "byproducts": [
+      ["4570_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "50beowulf_casing",
+    "byproducts": [
+      ["50beowulf_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "450_casing",
+    "byproducts": [
+      ["450_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "46mm_casing",
+    "byproducts": [
+      ["46mm_casing", 149]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "460_casing",
+    "byproducts": [
+      ["460_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "500_casing",
+    "byproducts": [
+      ["500_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "50_casing",
+    "byproducts": [
+      ["50_casing", 15]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "338lapua_casing",
+    "byproducts": [
+      ["338lapua_casing", 15]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "77arisaka_casing",
+    "byproducts": [
+      ["77arisaka_casing", 59]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "545_casing",
+    "byproducts": [
+      ["545_casing", 74]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "57mm_casing",
+    "byproducts": [
+      ["57mm_casing", 149]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "458wm_casing",
+    "byproducts": [
+      ["458wm_casing", 22]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "762R_casing",
+    "byproducts": [
+      ["762R_casing", 41]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "762_casing",
+    "byproducts": [
+      ["762_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "762_25_casing",
+    "byproducts": [
+      ["762_25_casing", 44]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "9mm_casing",
+    "byproducts": [
+      ["9mm_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "357sig_casing",
+    "byproducts": [
+      ["357sig_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "357mag_casing",
+    "byproducts": [
+      ["357mag_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "9x18mm_casing",
+    "byproducts": [
+      ["9x18mm_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "380_casing",
+    "byproducts": [
+      ["380_casing", 99]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "shot_hull",
+    "byproducts": [
+      ["shot_hull", 45]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ], [ "plastic_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "410shot_hull",
+    "byproducts": [
+      ["410shot_hull", 45]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ], [ "plastic_chunk", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "300blk_casing",
+    "byproducts": [
+      ["300blk_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "30carbine_casing",
+    "byproducts": [
+      ["30carbine_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "273x110casing",
+    "byproducts": [
+      ["273x110casing", 14]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "273x44casing",
+    "byproducts": [
+      ["273x44casing", 29]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "50ae_casing",
+    "byproducts": [
+      ["50ae_casing", 49]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "30 m",
+    "batch_time_factors": [ 80, 1 ],
+    "book_learn": [ [ "recipe_bullets", 0 ], [ "mag_rifle", 0 ] ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_metalworking" } ],
+    "tools": [ [ [ "press", -1 ] ] ],
+    "components": [ [ [ "scrap_brass", 1 ] ] ]
+  }
+]

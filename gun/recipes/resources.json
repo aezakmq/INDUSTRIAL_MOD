@@ -1,0 +1,105 @@
+[
+  {
+    "type": "recipe",
+    "result": "scrap_brass",
+    "id_suffix": "scrap_brass1",
+    "byproducts": [
+      ["scrap_brass", 9]
+    ],
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "fabrication", 4 ],
+    "difficulty": 5,
+    "time": "50 m",
+    "batch_time_factors": [ 80, 1 ],
+    "activity_level": "LIGHT_EXERCISE",
+    "autolearn": true,
+    "proficiencies": [
+      { "proficiency": "prof_metalworking" },
+      { "proficiency": "prof_blacksmithing" }
+    ],
+    "qualities": [
+      { "id": "ORE_SMELTING", "level": 1 }
+    ],
+    "tools": [
+      [ [ "crucible_clay", -1 ], [ "electric_crucible", -1 ] ],
+      [ [ "coal_lump", 150 ], [ "charcoal", 150 ], [ "electric_crucible", 750 ] ]
+    ],
+    "components": [
+      [ [ "copper", 300 ] ],
+      [ [ "zinc_metal", 855 ] ]
+    ]
+  },
+{
+  "type": "recipe",
+  "result": "scrap_brass",
+  "id_suffix": "scrap_brass1",
+  "category": "CC_OTHER",
+  "subcategory": "CSC_OTHER_MATERIALS",
+  "skill_used": "fabrication",
+  "difficulty": 0,
+  "time": "50 m",
+  "batch_time_factors": [ 90, 4 ],
+  "activity_level": "LIGHT_EXERCISE",
+  "autolearn": true,
+  "qualities": [
+    { "id": "ORE_SMELTING", "level": 1 }
+  ],
+  "tools": [
+    [ [ "crucible", -1 ], [ "crucible_clay", -1 ], [ "electric_crucible", -1 ] ],
+    [ [ "coal_lump", 20 ], [ "charcoal", 20 ], [ "electric_crucible", 80 ] ]
+  ],
+  "components": [
+    [ 
+      [ "223_casing", 60 ],
+      [ "22_casing", 150 ],
+      [ "22_casing_new", 300 ],
+      [ "22_casing_new_short", 300 ],
+      [ "3006_casing", 42 ],
+      [ "123ln_casing", 42 ],
+      [ "270win_casing", 42 ],
+      [ "303_casing", 42 ],
+      [ "300_casing", 42 ],
+      [ "308_casing", 50 ],
+      [ "762_51_casing", 50 ],
+      [ "32_casing", 150 ],
+      [ "38_casing", 100 ],
+      [ "38super_casing", 100 ],
+      [ "40_casing", 100 ],
+      [ "10mm_casing", 100 ],
+      [ "44_casing", 75 ],
+      [ "454_casing", 42 ],
+      [ "45_casing", 75 ],
+      [ "45colt_casing", 75 ],
+      [ "4570_casing", 75 ],
+      [ "50beowulf_casing", 75 ],
+      [ "450_casing", 75 ],
+      [ "46mm_casing", 150 ],
+      [ "460_casing", 75 ],
+      [ "500_casing", 42 ],
+      [ "50_casing", 16 ],
+      [ "338lapua_casing", 16 ],
+      [ "77arisaka_casing", 60 ],
+      [ "545_casing", 75 ],
+      [ "57mm_casing", 150 ],
+      [ "458wm_casing", 23 ],
+      [ "762R_casing", 42 ],
+      [ "762_casing", 50 ],
+      [ "762_25_casing", 75 ],
+      [ "9mm_casing", 100 ],
+      [ "357sig_casing", 100 ],
+      [ "357mag_casing", 100 ],
+      [ "9x18mm_casing", 100 ],
+      [ "380_casing", 100 ],
+      [ "shot_hull", 37 ],
+      [ "410shot_hull", 37 ],
+      [ "300blk_casing", 50 ],
+      [ "30carbine_casing", 50 ],
+      [ "273x110casing", 15 ],
+      [ "273x44casing", 30 ],
+      [ "50ae_casing", 50 ]
+    ]
+  ]
+}
+]
