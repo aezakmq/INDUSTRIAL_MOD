@@ -413,8 +413,8 @@
     "result": "metal_soil",
     "byproducts": [
       ["material_soil", 5],
-      ["clay_lump", 1],
-      ["material_sand", 100]
+      ["clay_lump", 3],
+      ["material_sand", 200]
     ],
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
