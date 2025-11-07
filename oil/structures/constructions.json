@@ -5,7 +5,7 @@
     "group": "GROUP_OIL_DERICK",
     "category": "DIG",
     "required_skills": [ [ "fabrication", 6 ], [ "mechanics", 4 ] ],
-    "time": "720 m",
+    "time": "520 m",
     "components": [
       [ [ "oil_derrick_item", 1 ] ]
     ],
