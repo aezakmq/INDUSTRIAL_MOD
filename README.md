@@ -54,10 +54,6 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 
 - 22_casing
 
-- 22_casing_new
-
-- 22_casing_new_short
-
 - 3006_casing
 
 - 123ln_casing
