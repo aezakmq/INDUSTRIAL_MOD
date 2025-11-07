@@ -19,14 +19,14 @@ for last-experimental-build-2025-11-05-1518
 - `lead_ore` - свинцовая руда (survival 2, fabrication 2)
 - `aluminum_ore` - алюминиевая руда (survival 2, fabrication 2)
 
-## Новые материалы
+## Новые рецепты материалов с основной игры 
 - `material_rhodonite` - родонит (survival 2, fabrication 2)
 - `coal_lump` - уголь (survival 2, fabrication 2)
 - `material_zincite` - цинкит (survival 2, fabrication 2)
 - `material_shrd_limestone` - известняк (survival 2, fabrication 2)
 - `material_rocksalt` - каменная соль (survival 2, fabrication 2)
 
-## Новые металлы
+## Новые рецепты металлов с основной игры 
 - `scrap` - железный лом (fabrication 2)
 - `copper` - медь (fabrication 2)
 - `scrap_tin` - оловянный лом (fabrication 2)
@@ -34,7 +34,10 @@ for last-experimental-build-2025-11-05-1518
 - `scrap_aluminum` - алюминиевый лом (fabrication 4)
 - `scrap_bronze` - бронзовый лом (fabrication 2)
 
-## Новые рецепты химикатов
+## Новые рецепты
+- `scrap_bronze` - бронзовый лом (fabrication 2)
+
+## Новые рецепты химикатов с основной игры
 - `material_niter` - кристал селитры (chemistry 2, fabrication 2)
 - `chunk_sulfur` - кусок серы (chemistry 2, fabrication 2)
 
