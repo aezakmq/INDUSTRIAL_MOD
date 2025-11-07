@@ -25,23 +25,25 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 - `lead_ore` - lead ore (survival 2, fabrication 2)
 - `aluminum_ore` - aluminum ore (survival 2, fabrication 2)
 
-## New Materials
+## New Materials from the main game
 - `material_rhodonite` - rhodonite (survival 2, fabrication 2)
 - `coal_lump` - coal (survival 2, fabrication 2)
 - `material_zincite` - zincite (survival 2, fabrication 2)
 - `material_shrd_limestone` - limestone (survival 2, fabrication 2)
 - `material_rocksalt` - rocksalt (survival 2, fabrication 2)
 
-## New Metals
+## New Metals from the main game
 - `scrap` - iron scrap (fabrication 2)
 - `copper` - copper (fabrication 2)
 - `scrap_tin` - tin scrap (fabrication 2)
 - `lead` - lead (fabrication 4)
 - `scrap_aluminum` - aluminum scrap (fabrication 4)
 - `scrap_bronze` - bronze scrap (fabrication 2)
+
+## New Metals
 - `scrap_brass` - scrap brass (fabrication 4)
 
-## New Chemical Recipes
+## New Chemical Recipes from the main game
 - `material_niter` - niter (chemistry 2, fabrication 2)
 - `chunk_sulfur` - sulfur (chemistry 2, fabrication 2)
 
@@ -174,7 +176,7 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 - `fuel_oil` - fuel oil (chemistry 5) [textbook_chemistry]
 - `industrial_napalm` - makeshift napalm (chemistry 4, fabrication 2) [textbook_gaswarfare, textbook_chemistry, recipe_labchem]
 
-## New Recipes
+## New Recipes 
 - `motor_oil` - motor oil (chemistry 6) [catalytic_cracking_handbook]
 
 ## New Structures
