@@ -11,7 +11,7 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 - `constr_ore_smelting_furnace` - Печь для переплавки руды (fabrication 4, survival 2)
 - `constr_soil_sifter` - Просеиватель грунта (fabrication 3, survival 1)
 
-## Новые рецепты
+## Новые рецепты предметов с основной игры
 - `metalworking_tongs` - кузнечные клещи (fabrication 2)
 - `casting_mold` - песочная форма (fabrication 3)
 - `anvil_crude` - примитивная наковальня (fabrication 3)
@@ -25,23 +25,25 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 - `lead_ore` - свинцовая руда (survival 2, fabrication 2)
 - `aluminum_ore` - алюминиевая руда (survival 2, fabrication 2)
 
-## Новые материалы
+## Новые рецепты материалов с основной игры
 - `material_rhodonite` - родонит (survival 2, fabrication 2)
 - `coal_lump` - уголь (survival 2, fabrication 2)
 - `material_zincite` - цинкит (survival 2, fabrication 2)
 - `material_shrd_limestone` - известняк (survival 2, fabrication 2)
 - `material_rocksalt` - каменная соль (survival 2, fabrication 2)
 
-## Новые металлы
+## Новые рецепты металлов с основной игры 
 - `scrap` - железный лом (fabrication 2)
 - `copper` - медь (fabrication 2)
 - `scrap_tin` - оловянный лом (fabrication 2)
 - `lead` - свинец (fabrication 4)
 - `scrap_aluminum` - алюминиевый лом (fabrication 4)
 - `scrap_bronze` - бронзовый лом (fabrication 2)
+
+## Новые рецепты металлов
 - `scrap_brass` - латунный обломок (fabrication 4)
 
-## Новые рецепты химикатов
+## Новые рецепты химикатов с основной игры 
 - `material_niter` - кристал селитры (chemistry 2, fabrication 2)
 - `chunk_sulfur` - кусок серы (chemistry 2, fabrication 2)
 
