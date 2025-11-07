@@ -460,8 +460,8 @@
       [ [ "coal_lump", 500 ], [ "charcoal", 500 ], [ "electric_crucible", 2000 ] ]
     ],
     "components": [
-      [ [ "tin_ore", 1 ] ],
-      [ [ "copper_ore", 5 ] ]
+      [ [ "tin_ore", 1 ], [ "metal_soil", 4 ] ],
+      [ [ "copper_ore", 5 ], [ "metal_soil", 20 ] ]
     ]
   }
 ]
