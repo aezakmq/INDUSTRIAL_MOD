@@ -1,0 +1,15 @@
+[
+{
+    "id": "scrap_brass",
+    "type": "GENERIC",
+    "name": { "str_sp": "scrap brasse" },
+    "description": "Some decent-sized chunks of scrap brass.",
+    "weight": "300 g",
+    "volume": "38 ml",
+    "price": 1,
+    "price_postapoc": 1,
+    "material": [ "brass" ],
+    "symbol": ",",
+    "color": "yellow"
+  }
+]
