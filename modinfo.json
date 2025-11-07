@@ -3,7 +3,8 @@
     "type": "MOD_INFO",
     "id": "industrial_mod",
     "name": "Индустриальный мод",
-    "authors": [ "Aezakmq", "ApelAir" ],
+    "authors": [ "Aezakmq" ],
+    "maintainers": [ "Aezakmq", "ApelAir" ],
     "description": "Модификация добавляющая кустарную индустриальную часть в игру. Добыча руды, добыча нефти, все это с дальнейшей переработкой в полезные жидкости и предметы. ",
     "category": "content",
     "dependencies": [ "dda" ]
