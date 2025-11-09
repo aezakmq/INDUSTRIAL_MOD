@@ -1,28 +1,5 @@
 [
   {
-    "id": "fluid_crude_oil",
-    "type": "ITEM",
-    "subtypes": [ "AMMO" ],
-    "name": { "str_sp": "Crude oil" },
-    "description": "Thick, black, oily liquid. Can be processed into fuel.",
-    "category": "fuel",
-    "weight": "750 mg",
-    "volume": "200 ml",
-    "count": 250,
-    "stack_size": 200,
-    "price": "0 USD",
-    "price_postapoc": "0 USD",
-    "phase": "liquid",
-    "container": "pressurized_tank",
-    "material": [ "fluid_crude_oil" ],
-    "symbol": "~",
-    "color": "dark_gray",
-    "ammo_type": "fluid_crude_oil",
-    "damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 5 },
-    "range": 4,
-    "effects": [ "FLAME", "STREAM", "INCENDIARY", "NEVER_MISFIRES" ]
-  },
-  {
     "id": "fuel_oil",
     "type": "ITEM",
     "subtypes": [ "AMMO" ],
