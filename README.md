@@ -142,11 +142,11 @@ for last-experimental-build-2025-11-09-1133
 - `constr_place_oil_refinery` - Oil distillation furnace (fabrication 6, mechanics 4)
 
 ## New resources
-- `fluid_crude_oil` - crude oil (chemistry 1)
 - `fuel_oil` - fuel oil (chemistry 5) [textbook_chemistry]
-- `industrial_napalm` - makeshift napalm (chemistry 4, fabrication 2) [textbook_gaswarfare, textbook_chemistry, recipe_labchem]
+- `industrial_napalm` - Makeshift napalm (chemistry 4, fabrication 2) [textbook_gaswarfare, textbook_chemistry, recipe_labchem]
 
-## New recipes
+## New recipes for items from the main game
+- `crude_oil` - crude oil (chemistry 1)
 - `motor_oil` - motor oil (chemistry 6) [catalytic_cracking_handbook]
 
 ## New structures
@@ -155,6 +155,6 @@ for last-experimental-build-2025-11-09-1133
 
 ## Production chain
 1. **Extraction:** Oil derrick → Crude oil
-2. **Distillation:** Furnace + Heaters → Fuel oil + Gasoline + Diesel + Kerosene
+2. **Distillation:** Furnace + Heaters + Crude oil → Fuel oil + Gasoline + Diesel + Kerosene
 3. **Processing:** Fuel oil → Motor oil
-4. **Weapons:** Oil + Fuel oil → Napalm for flamethrower
+4. **Weapons:** Oil + Fuel oil → Makeshift napalm
