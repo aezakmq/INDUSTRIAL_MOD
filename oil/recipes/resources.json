@@ -1,7 +1,7 @@
 [
   {
     "type": "recipe",
-    "result": "fluid_crude_oil",
+    "result": "crude_oil",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_OTHER",
     "skill_used": "chemistry",
@@ -35,7 +35,7 @@
       [ [ "oil_refinery_heater", 3500 ] ]
     ],
     "components": [
-      [ [ "fluid_crude_oil", 2500 ] ]
+      [ [ "crude_oil", 2500 ] ]
     ],
     "byproducts": [
       [ "gasoline", 4 ],
