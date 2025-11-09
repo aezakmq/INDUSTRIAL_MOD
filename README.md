@@ -1,4 +1,4 @@
-for last-experimental-build-2025-11-05-1518
+for last-experimental-build-2025-11-09-1133
 # 🏭 Mining
 
 ## Новые предметы
