@@ -2,7 +2,7 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 # 🏭 Mining
 
 ## New Items
-- `stone_pickaxe` - stone pickaxe (survival 1)
+- `stone_pickaxe` - stone pickaxe (survival 4)
 - `electric_crucible` - electric crucible (fabrication 3, electronics 3) [textbook_fabrication, advanced_electronics]
 - `primitive_anvil_mold` - primitive anvil mold (fabrication 2)
 
