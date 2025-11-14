@@ -2,7 +2,7 @@ for last-experimental-build-2025-11-09-1133
 # 🏭 Mining
 
 ## New items
-- `stone_pickaxe` - stone pickaxe (survival 1)
+- `stone_pickaxe` - stone pickaxe (survival 4)
 - `electric_crucible` - electric crucible (fabrication 3, electronics 3) [textbook_fabrication, advanced_electronics]
 
 ## New constructions
