@@ -2,7 +2,7 @@ for Cataclysm: Dark Days Ahead 0.H Herbert
 # 🏭 Mining
 
 ## Новые предметы
-- `stone_pickaxe` - каменная кирка (survival 1)
+- `stone_pickaxe` - каменная кирка (survival 4)
 - `electric_crucible` - электрический тигель (fabrication 3, electronics 3) [«Сделай Сам», «Современная электроника»]
 - `primitive_anvil_mold` - форма для отлива примитивной наковальни (fabrication 2)
 
